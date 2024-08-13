@@ -38,4 +38,15 @@ Ensure you have the follwoing installed on your local machine:
         python -m venv venv
         source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
+3. Install the Required Dependencies:
+
+         pip install -r requirements.txt
+
+4. Set Up Environment Variables:
+   Create a **'.env'** file in the root directory and add your Hugging Face API token:
+
+           HUGGINGFACEHUB_API_TOKEN=your_huggingface_api_token
+
+
+
 
