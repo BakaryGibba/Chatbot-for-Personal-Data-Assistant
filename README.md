@@ -47,6 +47,14 @@ Ensure you have the follwoing installed on your local machine:
 
            HUGGINGFACEHUB_API_TOKEN=your_huggingface_api_token
 
+## Running the Project
+1. **Start the Flask Server:**
 
+           python server.py
 
+2. **Access the Web Interface:**
+   Open your web browser and navigate to **'http://127.0.0.1:8000'**
 
+## Project Structure
+
+<img width="532" alt="Screenshot 2024-08-13 221845" src="https://github.com/user-attachments/assets/fdc4fbaf-b319-44f1-96ef-23d25aeaeb1d">
