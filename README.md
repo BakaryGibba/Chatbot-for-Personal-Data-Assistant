@@ -29,4 +29,4 @@ Ensure you have the follwoing installed on your local machine:
 - A Hugging Face API token
 
 ### Installation
-   Bakakry Gibb
+    Bakakry Gibb  dmg h h,h,g g
