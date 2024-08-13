@@ -14,7 +14,19 @@ This project is an AI-powered personal data assistant designed to analyze PDF do
 - Acknowledgments
 
 ## Features
+
 - **PDF Document Analysis**: Upload a PDF document and get insights and answers based on the content.
 - **Natural Language Processing**: Utilizes Hugging Face models to process and understand user queries.
 - **Interactive Web Interface**: Built with Flask, offering a user-friendly interface for interaction.
 - **Historical Chat Memory**: Maintains a history of the conversation to provide context-aware responses.
+
+## Getting Started
+
+### Prerequisite
+Ensure you have the follwoing installed on your local machine:
+- Python 3.8 or higher
+- Pip
+- A Hugging Face API token
+
+### Installation
+   Bakakry Gibb
