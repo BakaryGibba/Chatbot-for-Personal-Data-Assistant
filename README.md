@@ -31,6 +31,5 @@ Ensure you have the follwoing installed on your local machine:
 ### Installation
 1. Clone the Repository:
    
-            git clone https://github.com/BakaryGibba/personal-data-assistant.git
-[cd personal-data-assistant
+            git clone https://github.com/BakaryGibba/personal-data-assistant.git cd personal-data-assistant
 
