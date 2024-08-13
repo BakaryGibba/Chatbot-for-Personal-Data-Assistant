@@ -1,7 +1,9 @@
 # Chatbot-for-Data-Surmarise
+
 This project is an AI-powered personal data assistant designed to analyze PDF documents and respond to user queries based on the content. It leverages the power of LangChain, Hugging Face models, and Flask to provide an interactive and intelligent user experience.
 
 ## Table of Contents
+
 - Features
 - Getting Started
   - Prerequisites
@@ -48,6 +50,7 @@ Ensure you have the follwoing installed on your local machine:
            HUGGINGFACEHUB_API_TOKEN=your_huggingface_api_token
 
 ## Running the Project
+
 1. **Start the Flask Server:**
 
            python server.py
@@ -58,3 +61,27 @@ Ensure you have the follwoing installed on your local machine:
 ## Project Structure
 
 <img width="532" alt="Screenshot 2024-08-13 221845" src="https://github.com/user-attachments/assets/fdc4fbaf-b319-44f1-96ef-23d25aeaeb1d">
+
+## Usage 
+
+1. **Upload a PDF:** Upload any PDF document that you want to analyze.
+2. **Ask Questions:** Type your question related to the document's content, and the assistant will provide you with an informed answer.
+3. **View Responses:** The assistant's responses are displayed in the chat window, with ongoing conversation history for context.
+
+## Contributing
+
+Contributions are welcome! To contribute:
+1. Fork this repository.
+2. Create a new branch with your feature or bug fix.
+3. Commit your changes and push them to your branch.
+4. Create a pull request explaining your changes.
+
+## License
+This project is license under the MIT License
+
+## Acknowledgements
+
+- **LangChain** for language model chains
+- **Hugging Face** for providing the model APIs
+- **Flask** for the web framework
+- Everyone who inspired and support the development of this project
