@@ -33,3 +33,9 @@ Ensure you have the follwoing installed on your local machine:
    
             git clone https://github.com/BakaryGibba/personal-data-assistant.git cd personal-data-assistant
 
+2.  Create a Virtual Environment:
+
+        python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
+
