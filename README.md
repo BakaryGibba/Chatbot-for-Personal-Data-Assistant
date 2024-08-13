@@ -29,4 +29,8 @@ Ensure you have the follwoing installed on your local machine:
 - A Hugging Face API token
 
 ### Installation
-    Bakakry Gibb  dmg h h,h,g g
+1. Clone the Repository
+    git clone https://github.com/BakaryGibba/personal-data-assistant.git
+cd personal-data-assistant
+ 
+
