@@ -1,4 +1,4 @@
-# Chatbot-for-Data-Surmarise
+# AI-Powered Data Summarization Chatbot
 
 This project is an AI-powered personal data assistant designed to analyze PDF documents and respond to user queries based on the content. It leverages the power of LangChain, Hugging Face models, and Flask to provide an interactive and intelligent user experience.
 
