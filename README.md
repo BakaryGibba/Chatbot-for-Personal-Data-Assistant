@@ -85,3 +85,8 @@ This project is license under the MIT License
 - **Hugging Face** for providing the model APIs
 - **Flask** for the web framework
 - Everyone who inspired and support the development of this project
+
+## The Interface:
+
+
+<img width="960" alt="Screenshot 2024-08-24 125921" src="https://github.com/user-attachments/assets/5b7556e0-ac0c-41c9-b25d-31d6f357fb04">
